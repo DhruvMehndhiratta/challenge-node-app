@@ -16,7 +16,7 @@ For this assignment I have used moment js to handle timestamps and used jest cas
 
     if using github:-
 
-    $ git clone https://github.com/DhruvMehndhiratta/ClickSubsets.git
+    $ git clone https://github.com/DhruvMehndhiratta/ClickSubsets
     $ cd ClickSubsets
     $ npm i 
 
