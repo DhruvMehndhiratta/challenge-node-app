@@ -1,0 +1,26 @@
+{
+  "name": "solution_dhruv_mehndhiratta",
+  "version": "1.0.0",
+  "description": "test job",
+  "main": "server.js",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest",
+    "start": "npm run solution",
+    "solution": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhruvMehndhiratta/ClickSubsets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DhruvMehndhiratta/ClickSubsets/issues"
+  },
+  "homepage": "https://github.com/DhruvMehndhiratta/ClickSubsets#readme"
+}
